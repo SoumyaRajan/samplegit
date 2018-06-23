@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="12792" started-at="2018-06-17T07:15:33Z" finished-at="2018-06-17T07:15:46Z">
+  <suite name="Suite" duration-ms="79757" started-at="2018-06-23T06:06:32Z" finished-at="2018-06-23T06:07:52Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12792" started-at="2018-06-17T07:15:33Z" finished-at="2018-06-17T07:15:46Z">
-      <class name="sampletGitTest.SampleGitTest">
-        <test-method status="PASS" signature="logintest()[pri:0, instance:sampletGitTest.SampleGitTest@3f0ee7cb]" name="logintest" duration-ms="12754" started-at="2018-06-17T12:45:33Z" finished-at="2018-06-17T12:45:46Z">
+    <test name="Test" duration-ms="79757" started-at="2018-06-23T06:06:32Z" finished-at="2018-06-23T06:07:52Z">
+      <class name="sampletGitTest.SampleGitTest2">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:sampletGitTest.SampleGitTest2@3f0ee7cb]" name="logintest" duration-ms="79723" started-at="2018-06-23T11:36:32Z" finished-at="2018-06-23T11:37:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintest -->
-      </class> <!-- sampletGitTest.SampleGitTest -->
+      </class> <!-- sampletGitTest.SampleGitTest2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
